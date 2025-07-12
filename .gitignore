@@ -1,0 +1,22 @@
+# Ignore SQLite DB
+*.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Streamlit settings
+.streamlit/
+
+# Jupyter/IPython
+.ipynb_checkpoints
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment/venv folders
+env/
+.venv/
+.Python

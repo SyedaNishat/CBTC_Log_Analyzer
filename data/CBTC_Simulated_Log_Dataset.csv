@@ -1,0 +1,501 @@
+Timestamp,Subsystem,Component,LogMessage,FaultType
+7/1/2025 12:10,SignalModule,SignalRelay,Track circuit 962 failed self-check,Track Circuit Failure
+7/7/2025 16:21,OnboardUnit,TrackCircuit,Log entry could not be classified,Unknown
+7/5/2025 6:22,OnboardUnit,ZoneLink,Log entry could not be classified,Unknown
+7/1/2025 9:07,TracksideSensor,BaliseReader,Undocumented fault condition encountered,Unknown
+7/3/2025 15:57,ZoneController,ZoneLink,Track circuit 296 is showing occupied for too long,Track Circuit Failure
+7/3/2025 6:09,ATS,ZoneLink,Balise reader on train 683 failed to detect balise at position 46,Balise Error
+7/7/2025 22:50,ATS,SignalRelay,Track circuit 381 is showing occupied for too long,Track Circuit Failure
+7/7/2025 4:02,ATS,BaliseReader,Signal overlap detected between train 195 and train 25,Signal Conflict
+7/6/2025 11:40,SignalModule,TrainControl,Lost communication with train ID 580,Communication Fault
+7/1/2025 10:52,OnboardUnit,BaliseReader,Track circuit 528 failed self-check,Track Circuit Failure
+7/6/2025 4:20,OnboardUnit,ZoneLink,Unexpected system restart,Unknown
+7/6/2025 2:47,OnboardUnit,ZoneLink,Track circuit 728 is showing occupied for too long,Track Circuit Failure
+7/5/2025 8:31,ATS,TrackCircuit,Undocumented fault condition encountered,Unknown
+7/4/2025 22:21,ATS,SignalRelay,Signal module 181 sent conflicting commands,Signal Conflict
+7/5/2025 1:21,ZoneController,SignalRelay,Signal module 859 sent conflicting commands,Signal Conflict
+7/5/2025 9:23,ATS,SignalRelay,No response from Zone Controller 430,Communication Fault
+7/4/2025 19:04,SignalModule,TrackCircuit,Balise ID 398 not recognized by Zone Controller,Balise Error
+7/7/2025 6:36,TracksideSensor,SignalRelay,Signal module 313 sent conflicting commands,Signal Conflict
+7/1/2025 11:13,ZoneController,TrainControl,Track circuit 249 is showing occupied for too long,Track Circuit Failure
+7/6/2025 6:22,ZoneController,TrackCircuit,Unexpected system restart,Unknown
+7/2/2025 21:29,OnboardUnit,SignalRelay,Balise ID 579 not recognized by Zone Controller,Balise Error
+7/4/2025 8:51,SignalModule,SignalRelay,Signal module 117 sent conflicting commands,Signal Conflict
+7/4/2025 2:19,TracksideSensor,ZoneLink,Signal overlap detected between train 314 and train 5,Signal Conflict
+7/3/2025 11:25,OnboardUnit,TrackCircuit,Signal module 206 sent conflicting commands,Signal Conflict
+7/6/2025 10:34,ZoneController,TrainControl,Track circuit 216 failed self-check,Track Circuit Failure
+7/7/2025 11:03,ZoneController,TrainControl,Log entry could not be classified,Unknown
+7/4/2025 14:22,TracksideSensor,TrackCircuit,Balise ID 830 not recognized by Zone Controller,Balise Error
+7/7/2025 1:38,OnboardUnit,TrainControl,Lost communication with train ID 181,Communication Fault
+7/7/2025 6:34,ATS,TrainControl,Signal module 888 sent conflicting commands,Signal Conflict
+7/3/2025 11:07,ATS,TrackCircuit,Track circuit 170 failed self-check,Track Circuit Failure
+7/5/2025 13:49,TracksideSensor,BaliseReader,Balise reader on train 812 failed to detect balise at position 30,Balise Error
+7/7/2025 4:53,ZoneController,TrackCircuit,Track circuit 369 failed self-check,Track Circuit Failure
+7/7/2025 22:15,TracksideSensor,BaliseReader,Track circuit 813 is showing occupied for too long,Track Circuit Failure
+7/2/2025 19:49,ATS,TrackCircuit,Balise ID 832 not recognized by Zone Controller,Balise Error
+7/5/2025 6:30,ZoneController,TrainControl,Lost communication with train ID 166,Communication Fault
+7/6/2025 18:43,ZoneController,BaliseReader,Unexpected system restart,Unknown
+7/7/2025 15:22,TracksideSensor,TrainControl,Timeout while sending data to ATS,Communication Fault
+7/6/2025 0:20,SignalModule,TrackCircuit,Lost communication with train ID 729,Communication Fault
+7/5/2025 16:22,ATS,SignalRelay,Timeout while sending data to ATS,Communication Fault
+7/2/2025 3:45,ZoneController,BaliseReader,Unexpected system restart,Unknown
+7/2/2025 5:35,ZoneController,SignalRelay,Signal module 204 sent conflicting commands,Signal Conflict
+7/7/2025 13:51,ATS,TrainControl,Track circuit 652 failed self-check,Track Circuit Failure
+7/5/2025 6:54,ZoneController,SignalRelay,Balise reader on train 969 failed to detect balise at position 5,Balise Error
+7/7/2025 10:09,ZoneController,BaliseReader,Undocumented fault condition encountered,Unknown
+7/4/2025 20:58,ATS,BaliseReader,Signal module 783 sent conflicting commands,Signal Conflict
+7/7/2025 23:55,ZoneController,BaliseReader,Balise reader on train 869 failed to detect balise at position 50,Balise Error
+7/4/2025 17:55,SignalModule,TrainControl,Unexpected system restart,Unknown
+7/2/2025 2:11,OnboardUnit,TrackCircuit,Log entry could not be classified,Unknown
+7/2/2025 22:21,ZoneController,SignalRelay,Undocumented fault condition encountered,Unknown
+7/5/2025 4:32,OnboardUnit,BaliseReader,Balise ID 642 not recognized by Zone Controller,Balise Error
+7/4/2025 20:26,ZoneController,TrackCircuit,Balise reader on train 174 failed to detect balise at position 28,Balise Error
+7/4/2025 13:59,ATS,BaliseReader,Lost communication with train ID 802,Communication Fault
+7/5/2025 4:42,ATS,BaliseReader,Track circuit 426 failed self-check,Track Circuit Failure
+7/2/2025 6:14,ATS,ZoneLink,Balise ID 536 not recognized by Zone Controller,Balise Error
+7/1/2025 6:41,ATS,TrainControl,Log entry could not be classified,Unknown
+7/1/2025 16:22,ZoneController,TrackCircuit,Log entry could not be classified,Unknown
+7/2/2025 11:31,ATS,BaliseReader,Timeout while sending data to ATS,Communication Fault
+7/6/2025 13:09,TracksideSensor,BaliseReader,Balise reader on train 756 failed to detect balise at position 10,Balise Error
+7/3/2025 2:49,OnboardUnit,BaliseReader,Balise reader on train 716 failed to detect balise at position 24,Balise Error
+7/3/2025 2:35,SignalModule,TrainControl,Track circuit 259 is showing occupied for too long,Track Circuit Failure
+7/4/2025 9:03,TracksideSensor,TrainControl,Balise ID 351 not recognized by Zone Controller,Balise Error
+7/6/2025 4:08,ATS,TrackCircuit,Lost communication with train ID 686,Communication Fault
+7/3/2025 11:23,SignalModule,TrainControl,No response from Zone Controller 608,Communication Fault
+7/6/2025 23:32,SignalModule,BaliseReader,Signal module 741 sent conflicting commands,Signal Conflict
+7/7/2025 2:21,ATS,BaliseReader,Undocumented fault condition encountered,Unknown
+7/7/2025 15:11,OnboardUnit,BaliseReader,Balise ID 539 not recognized by Zone Controller,Balise Error
+7/3/2025 2:25,ZoneController,TrackCircuit,Balise reader on train 433 failed to detect balise at position 13,Balise Error
+7/2/2025 3:45,SignalModule,SignalRelay,Log entry could not be classified,Unknown
+7/6/2025 17:33,ZoneController,SignalRelay,Lost communication with train ID 746,Communication Fault
+7/7/2025 19:54,SignalModule,TrainControl,Balise reader on train 470 failed to detect balise at position 48,Balise Error
+7/2/2025 20:23,OnboardUnit,BaliseReader,Track circuit 692 is showing occupied for too long,Track Circuit Failure
+7/1/2025 11:48,SignalModule,SignalRelay,Signal overlap detected between train 906 and train 39,Signal Conflict
+7/2/2025 12:04,OnboardUnit,TrainControl,Signal overlap detected between train 554 and train 26,Signal Conflict
+7/3/2025 6:43,ATS,TrackCircuit,Signal module 703 sent conflicting commands,Signal Conflict
+7/4/2025 4:55,OnboardUnit,SignalRelay,Undocumented fault condition encountered,Unknown
+7/6/2025 12:57,SignalModule,SignalRelay,Signal overlap detected between train 680 and train 20,Signal Conflict
+7/5/2025 16:48,SignalModule,BaliseReader,Track circuit 607 is showing occupied for too long,Track Circuit Failure
+7/7/2025 10:04,TracksideSensor,BaliseReader,Balise ID 237 not recognized by Zone Controller,Balise Error
+7/2/2025 18:57,ATS,TrackCircuit,Lost communication with train ID 269,Communication Fault
+7/4/2025 13:58,ATS,TrainControl,Track circuit 242 is showing occupied for too long,Track Circuit Failure
+7/5/2025 15:10,ATS,TrackCircuit,Track circuit 678 failed self-check,Track Circuit Failure
+7/3/2025 6:47,SignalModule,TrackCircuit,Signal module 938 sent conflicting commands,Signal Conflict
+7/4/2025 6:36,ZoneController,BaliseReader,Signal overlap detected between train 768 and train 32,Signal Conflict
+7/3/2025 12:15,SignalModule,SignalRelay,Track circuit 137 failed self-check,Track Circuit Failure
+7/7/2025 12:34,SignalModule,SignalRelay,Track circuit 887 failed self-check,Track Circuit Failure
+7/6/2025 6:51,OnboardUnit,TrainControl,Balise ID 975 not recognized by Zone Controller,Balise Error
+7/5/2025 21:36,OnboardUnit,SignalRelay,Signal overlap detected between train 972 and train 13,Signal Conflict
+7/7/2025 5:26,OnboardUnit,TrackCircuit,Unexpected system restart,Unknown
+7/3/2025 8:12,ATS,BaliseReader,Track circuit 596 is showing occupied for too long,Track Circuit Failure
+7/5/2025 22:26,ATS,ZoneLink,Undocumented fault condition encountered,Unknown
+7/4/2025 18:22,SignalModule,SignalRelay,Signal module 321 sent conflicting commands,Signal Conflict
+7/6/2025 5:56,ATS,ZoneLink,Lost communication with train ID 844,Communication Fault
+7/6/2025 21:26,OnboardUnit,BaliseReader,Track circuit 244 is showing occupied for too long,Track Circuit Failure
+7/7/2025 12:13,SignalModule,ZoneLink,Unexpected system restart,Unknown
+7/5/2025 7:34,ZoneController,TrainControl,Track circuit 287 is showing occupied for too long,Track Circuit Failure
+7/8/2025 1:03,OnboardUnit,SignalRelay,Undocumented fault condition encountered,Unknown
+7/1/2025 14:24,SignalModule,SignalRelay,Signal module 665 sent conflicting commands,Signal Conflict
+7/5/2025 4:49,ZoneController,SignalRelay,Balise ID 460 not recognized by Zone Controller,Balise Error
+7/1/2025 21:04,ZoneController,ZoneLink,Undocumented fault condition encountered,Unknown
+7/2/2025 17:36,ZoneController,ZoneLink,Balise ID 327 not recognized by Zone Controller,Balise Error
+7/6/2025 9:10,OnboardUnit,SignalRelay,Log entry could not be classified,Unknown
+7/1/2025 23:14,SignalModule,BaliseReader,Balise reader on train 795 failed to detect balise at position 6,Balise Error
+7/4/2025 5:02,OnboardUnit,TrainControl,Track circuit 485 failed self-check,Track Circuit Failure
+7/7/2025 15:50,ZoneController,TrainControl,Signal overlap detected between train 161 and train 30,Signal Conflict
+7/1/2025 12:28,ZoneController,ZoneLink,No response from Zone Controller 785,Communication Fault
+7/3/2025 11:47,ATS,SignalRelay,Balise ID 529 not recognized by Zone Controller,Balise Error
+7/2/2025 20:05,ZoneController,BaliseReader,Undocumented fault condition encountered,Unknown
+7/1/2025 12:33,ATS,BaliseReader,Track circuit 411 failed self-check,Track Circuit Failure
+7/2/2025 4:21,SignalModule,SignalRelay,Track circuit 809 failed self-check,Track Circuit Failure
+7/4/2025 12:12,ZoneController,ZoneLink,Signal module 242 sent conflicting commands,Signal Conflict
+7/3/2025 0:26,OnboardUnit,SignalRelay,Track circuit 865 failed self-check,Track Circuit Failure
+7/4/2025 0:37,OnboardUnit,SignalRelay,Balise ID 769 not recognized by Zone Controller,Balise Error
+7/1/2025 21:44,SignalModule,SignalRelay,Balise reader on train 127 failed to detect balise at position 42,Balise Error
+7/3/2025 0:41,SignalModule,SignalRelay,Signal module 536 sent conflicting commands,Signal Conflict
+7/1/2025 15:16,SignalModule,ZoneLink,Undocumented fault condition encountered,Unknown
+7/6/2025 8:09,TracksideSensor,TrackCircuit,Track circuit 614 failed self-check,Track Circuit Failure
+7/4/2025 1:14,TracksideSensor,BaliseReader,Track circuit 124 failed self-check,Track Circuit Failure
+7/7/2025 19:55,SignalModule,SignalRelay,Track circuit 549 is showing occupied for too long,Track Circuit Failure
+7/6/2025 0:05,ZoneController,BaliseReader,Unexpected system restart,Unknown
+7/3/2025 4:42,TracksideSensor,BaliseReader,Track circuit 409 failed self-check,Track Circuit Failure
+7/4/2025 8:34,OnboardUnit,TrainControl,Unexpected system restart,Unknown
+7/6/2025 14:44,ATS,TrackCircuit,Balise ID 665 not recognized by Zone Controller,Balise Error
+7/4/2025 3:11,SignalModule,SignalRelay,Track circuit 863 failed self-check,Track Circuit Failure
+7/4/2025 12:48,OnboardUnit,ZoneLink,Timeout while sending data to ATS,Communication Fault
+7/7/2025 3:02,ZoneController,BaliseReader,Unexpected system restart,Unknown
+7/5/2025 8:36,ZoneController,TrainControl,Timeout while sending data to ATS,Communication Fault
+7/7/2025 17:53,TracksideSensor,BaliseReader,Signal overlap detected between train 728 and train 25,Signal Conflict
+7/6/2025 10:06,SignalModule,TrainControl,No response from Zone Controller 789,Communication Fault
+7/4/2025 13:49,SignalModule,BaliseReader,No response from Zone Controller 558,Communication Fault
+7/1/2025 21:26,TracksideSensor,TrackCircuit,Track circuit 896 failed self-check,Track Circuit Failure
+7/5/2025 10:03,ATS,BaliseReader,Undocumented fault condition encountered,Unknown
+7/1/2025 23:47,ZoneController,TrainControl,Unexpected system restart,Unknown
+7/8/2025 0:58,SignalModule,TrainControl,Undocumented fault condition encountered,Unknown
+7/7/2025 15:45,ATS,SignalRelay,Track circuit 295 is showing occupied for too long,Track Circuit Failure
+7/8/2025 3:11,SignalModule,BaliseReader,Undocumented fault condition encountered,Unknown
+7/6/2025 1:29,OnboardUnit,SignalRelay,No response from Zone Controller 532,Communication Fault
+7/5/2025 13:58,SignalModule,TrainControl,Signal overlap detected between train 499 and train 48,Signal Conflict
+7/4/2025 1:57,TracksideSensor,TrainControl,Unexpected system restart,Unknown
+7/3/2025 12:50,TracksideSensor,ZoneLink,Log entry could not be classified,Unknown
+7/7/2025 23:53,TracksideSensor,ZoneLink,Undocumented fault condition encountered,Unknown
+7/4/2025 23:05,ATS,BaliseReader,Balise reader on train 919 failed to detect balise at position 25,Balise Error
+7/4/2025 7:32,ATS,SignalRelay,Track circuit 886 is showing occupied for too long,Track Circuit Failure
+7/6/2025 6:22,OnboardUnit,ZoneLink,Balise reader on train 679 failed to detect balise at position 13,Balise Error
+7/4/2025 5:25,ATS,SignalRelay,Unexpected system restart,Unknown
+7/5/2025 2:45,SignalModule,TrainControl,Balise ID 449 not recognized by Zone Controller,Balise Error
+7/7/2025 18:01,TracksideSensor,BaliseReader,Log entry could not be classified,Unknown
+7/1/2025 6:00,SignalModule,ZoneLink,Balise ID 734 not recognized by Zone Controller,Balise Error
+7/4/2025 15:25,ATS,SignalRelay,Balise ID 899 not recognized by Zone Controller,Balise Error
+7/5/2025 18:53,ATS,TrainControl,Balise ID 891 not recognized by Zone Controller,Balise Error
+7/7/2025 9:16,ATS,ZoneLink,Balise reader on train 110 failed to detect balise at position 3,Balise Error
+7/6/2025 0:07,ATS,ZoneLink,Log entry could not be classified,Unknown
+7/7/2025 10:26,ATS,SignalRelay,Signal module 799 sent conflicting commands,Signal Conflict
+7/6/2025 2:58,SignalModule,TrackCircuit,Balise ID 252 not recognized by Zone Controller,Balise Error
+7/2/2025 6:39,ZoneController,TrackCircuit,Balise reader on train 700 failed to detect balise at position 5,Balise Error
+7/3/2025 11:09,ATS,BaliseReader,Undocumented fault condition encountered,Unknown
+7/4/2025 13:49,ZoneController,ZoneLink,Balise reader on train 406 failed to detect balise at position 39,Balise Error
+7/5/2025 3:43,OnboardUnit,SignalRelay,Track circuit 132 is showing occupied for too long,Track Circuit Failure
+7/5/2025 4:29,OnboardUnit,ZoneLink,Track circuit 780 is showing occupied for too long,Track Circuit Failure
+7/6/2025 20:08,SignalModule,ZoneLink,Undocumented fault condition encountered,Unknown
+7/6/2025 4:10,TracksideSensor,TrackCircuit,Track circuit 487 is showing occupied for too long,Track Circuit Failure
+7/2/2025 5:32,OnboardUnit,TrainControl,Balise reader on train 938 failed to detect balise at position 45,Balise Error
+7/2/2025 7:10,OnboardUnit,TrackCircuit,No response from Zone Controller 860,Communication Fault
+7/2/2025 3:55,OnboardUnit,BaliseReader,Signal module 704 sent conflicting commands,Signal Conflict
+7/1/2025 10:02,SignalModule,BaliseReader,Undocumented fault condition encountered,Unknown
+7/6/2025 12:34,TracksideSensor,BaliseReader,Balise ID 675 not recognized by Zone Controller,Balise Error
+7/4/2025 5:18,TracksideSensor,BaliseReader,Signal overlap detected between train 866 and train 34,Signal Conflict
+7/1/2025 21:38,ZoneController,ZoneLink,Undocumented fault condition encountered,Unknown
+7/7/2025 11:24,TracksideSensor,ZoneLink,Track circuit 588 is showing occupied for too long,Track Circuit Failure
+7/2/2025 15:13,ZoneController,ZoneLink,Balise ID 533 not recognized by Zone Controller,Balise Error
+7/5/2025 17:14,OnboardUnit,BaliseReader,No response from Zone Controller 570,Communication Fault
+7/3/2025 20:40,ATS,TrainControl,Balise ID 904 not recognized by Zone Controller,Balise Error
+7/1/2025 15:44,ZoneController,BaliseReader,Track circuit 407 failed self-check,Track Circuit Failure
+7/4/2025 1:03,SignalModule,ZoneLink,Signal module 381 sent conflicting commands,Signal Conflict
+7/7/2025 17:22,SignalModule,BaliseReader,Timeout while sending data to ATS,Communication Fault
+7/4/2025 8:37,TracksideSensor,TrackCircuit,Track circuit 117 is showing occupied for too long,Track Circuit Failure
+7/3/2025 19:02,ATS,TrackCircuit,Lost communication with train ID 180,Communication Fault
+7/5/2025 14:13,ATS,SignalRelay,Balise reader on train 802 failed to detect balise at position 49,Balise Error
+7/7/2025 17:06,TracksideSensor,BaliseReader,Balise reader on train 615 failed to detect balise at position 14,Balise Error
+7/2/2025 14:14,ATS,ZoneLink,Signal module 937 sent conflicting commands,Signal Conflict
+7/7/2025 1:56,ZoneController,BaliseReader,Balise ID 345 not recognized by Zone Controller,Balise Error
+7/3/2025 20:32,SignalModule,TrackCircuit,Signal module 555 sent conflicting commands,Signal Conflict
+7/3/2025 20:27,ATS,SignalRelay,Track circuit 650 failed self-check,Track Circuit Failure
+7/3/2025 18:54,ZoneController,TrainControl,Signal overlap detected between train 961 and train 34,Signal Conflict
+7/4/2025 16:52,ZoneController,TrackCircuit,Unexpected system restart,Unknown
+7/3/2025 23:09,ATS,SignalRelay,Timeout while sending data to ATS,Communication Fault
+7/6/2025 9:47,SignalModule,ZoneLink,Track circuit 525 failed self-check,Track Circuit Failure
+7/4/2025 5:14,ATS,BaliseReader,Track circuit 519 failed self-check,Track Circuit Failure
+7/6/2025 5:42,ATS,SignalRelay,Track circuit 137 is showing occupied for too long,Track Circuit Failure
+7/3/2025 4:53,ZoneController,TrainControl,Signal overlap detected between train 707 and train 23,Signal Conflict
+7/2/2025 19:40,SignalModule,ZoneLink,Signal overlap detected between train 425 and train 6,Signal Conflict
+7/2/2025 3:33,ZoneController,ZoneLink,Balise reader on train 411 failed to detect balise at position 20,Balise Error
+7/7/2025 18:19,ATS,ZoneLink,Signal module 743 sent conflicting commands,Signal Conflict
+7/2/2025 1:53,TracksideSensor,SignalRelay,Track circuit 939 is showing occupied for too long,Track Circuit Failure
+7/4/2025 10:23,SignalModule,TrainControl,Unexpected system restart,Unknown
+7/3/2025 20:47,ATS,SignalRelay,Timeout while sending data to ATS,Communication Fault
+7/7/2025 17:44,OnboardUnit,SignalRelay,Lost communication with train ID 927,Communication Fault
+7/2/2025 19:14,SignalModule,TrainControl,Balise ID 501 not recognized by Zone Controller,Balise Error
+7/6/2025 22:14,ZoneController,TrainControl,Balise ID 543 not recognized by Zone Controller,Balise Error
+7/6/2025 5:38,SignalModule,TrackCircuit,Track circuit 194 is showing occupied for too long,Track Circuit Failure
+7/3/2025 12:19,TracksideSensor,ZoneLink,Undocumented fault condition encountered,Unknown
+7/5/2025 9:37,ATS,SignalRelay,Signal overlap detected between train 922 and train 36,Signal Conflict
+7/3/2025 1:12,OnboardUnit,TrainControl,Signal module 754 sent conflicting commands,Signal Conflict
+7/3/2025 5:38,ZoneController,ZoneLink,Signal overlap detected between train 304 and train 17,Signal Conflict
+7/5/2025 14:26,OnboardUnit,ZoneLink,Track circuit 392 failed self-check,Track Circuit Failure
+7/5/2025 2:48,TracksideSensor,BaliseReader,Lost communication with train ID 664,Communication Fault
+7/3/2025 22:50,ATS,SignalRelay,Unexpected system restart,Unknown
+7/3/2025 18:46,OnboardUnit,ZoneLink,Log entry could not be classified,Unknown
+7/5/2025 4:44,ZoneController,SignalRelay,Lost communication with train ID 889,Communication Fault
+7/1/2025 14:57,OnboardUnit,ZoneLink,No response from Zone Controller 427,Communication Fault
+7/3/2025 16:28,ATS,BaliseReader,Undocumented fault condition encountered,Unknown
+7/1/2025 8:43,SignalModule,TrackCircuit,Log entry could not be classified,Unknown
+7/3/2025 2:48,OnboardUnit,BaliseReader,Balise ID 466 not recognized by Zone Controller,Balise Error
+7/5/2025 13:24,TracksideSensor,TrainControl,Undocumented fault condition encountered,Unknown
+7/7/2025 7:16,ZoneController,TrainControl,Track circuit 917 is showing occupied for too long,Track Circuit Failure
+7/5/2025 14:30,ZoneController,ZoneLink,Balise reader on train 645 failed to detect balise at position 21,Balise Error
+7/4/2025 15:46,SignalModule,TrainControl,Balise reader on train 214 failed to detect balise at position 21,Balise Error
+7/2/2025 23:43,SignalModule,TrainControl,Track circuit 713 failed self-check,Track Circuit Failure
+7/4/2025 20:57,OnboardUnit,TrackCircuit,Lost communication with train ID 547,Communication Fault
+7/3/2025 21:10,OnboardUnit,BaliseReader,Balise ID 208 not recognized by Zone Controller,Balise Error
+7/6/2025 11:53,ZoneController,TrackCircuit,No response from Zone Controller 663,Communication Fault
+7/2/2025 18:03,ZoneController,TrainControl,Track circuit 326 is showing occupied for too long,Track Circuit Failure
+7/7/2025 20:55,OnboardUnit,SignalRelay,No response from Zone Controller 749,Communication Fault
+7/3/2025 23:24,SignalModule,ZoneLink,Signal overlap detected between train 295 and train 18,Signal Conflict
+7/3/2025 7:58,OnboardUnit,BaliseReader,Log entry could not be classified,Unknown
+7/3/2025 10:00,TracksideSensor,ZoneLink,Track circuit 539 failed self-check,Track Circuit Failure
+7/5/2025 23:09,SignalModule,TrainControl,Track circuit 789 failed self-check,Track Circuit Failure
+7/6/2025 1:11,OnboardUnit,TrackCircuit,Lost communication with train ID 490,Communication Fault
+7/1/2025 12:19,ATS,SignalRelay,Balise reader on train 770 failed to detect balise at position 40,Balise Error
+7/2/2025 20:45,OnboardUnit,BaliseReader,Balise ID 699 not recognized by Zone Controller,Balise Error
+7/8/2025 4:08,SignalModule,ZoneLink,Balise reader on train 226 failed to detect balise at position 38,Balise Error
+7/3/2025 20:45,SignalModule,TrainControl,Track circuit 681 is showing occupied for too long,Track Circuit Failure
+7/1/2025 21:04,TracksideSensor,TrackCircuit,Track circuit 948 is showing occupied for too long,Track Circuit Failure
+7/6/2025 6:38,ATS,BaliseReader,Timeout while sending data to ATS,Communication Fault
+7/6/2025 19:51,OnboardUnit,BaliseReader,Signal overlap detected between train 497 and train 47,Signal Conflict
+7/1/2025 15:17,OnboardUnit,SignalRelay,No response from Zone Controller 909,Communication Fault
+7/4/2025 6:27,OnboardUnit,TrainControl,Track circuit 102 failed self-check,Track Circuit Failure
+7/3/2025 15:53,SignalModule,TrackCircuit,Signal overlap detected between train 172 and train 43,Signal Conflict
+7/4/2025 18:25,OnboardUnit,TrackCircuit,Balise reader on train 566 failed to detect balise at position 14,Balise Error
+7/6/2025 20:16,TracksideSensor,SignalRelay,Undocumented fault condition encountered,Unknown
+7/5/2025 15:49,OnboardUnit,SignalRelay,Signal overlap detected between train 953 and train 39,Signal Conflict
+7/6/2025 20:31,ZoneController,SignalRelay,No response from Zone Controller 590,Communication Fault
+7/2/2025 15:27,ZoneController,SignalRelay,Log entry could not be classified,Unknown
+7/4/2025 7:42,ZoneController,ZoneLink,Log entry could not be classified,Unknown
+7/3/2025 1:27,ATS,TrainControl,Timeout while sending data to ATS,Communication Fault
+7/5/2025 22:49,TracksideSensor,SignalRelay,Lost communication with train ID 703,Communication Fault
+7/4/2025 20:56,SignalModule,ZoneLink,Balise reader on train 744 failed to detect balise at position 26,Balise Error
+7/7/2025 11:22,OnboardUnit,SignalRelay,Undocumented fault condition encountered,Unknown
+7/5/2025 18:31,TracksideSensor,BaliseReader,Unexpected system restart,Unknown
+7/7/2025 22:02,TracksideSensor,ZoneLink,Balise reader on train 396 failed to detect balise at position 7,Balise Error
+7/1/2025 12:07,OnboardUnit,BaliseReader,Balise ID 531 not recognized by Zone Controller,Balise Error
+7/7/2025 18:13,SignalModule,SignalRelay,Track circuit 379 failed self-check,Track Circuit Failure
+7/1/2025 6:29,SignalModule,TrackCircuit,Log entry could not be classified,Unknown
+7/1/2025 15:21,ZoneController,TrackCircuit,Signal module 516 sent conflicting commands,Signal Conflict
+7/7/2025 13:19,SignalModule,TrackCircuit,Timeout while sending data to ATS,Communication Fault
+7/3/2025 18:32,OnboardUnit,BaliseReader,Undocumented fault condition encountered,Unknown
+7/3/2025 12:12,SignalModule,TrackCircuit,Track circuit 638 failed self-check,Track Circuit Failure
+7/7/2025 20:33,ATS,TrainControl,Track circuit 496 failed self-check,Track Circuit Failure
+7/3/2025 20:45,TracksideSensor,ZoneLink,Balise ID 343 not recognized by Zone Controller,Balise Error
+7/8/2025 2:37,SignalModule,TrackCircuit,Signal module 859 sent conflicting commands,Signal Conflict
+7/2/2025 2:53,SignalModule,ZoneLink,Track circuit 435 is showing occupied for too long,Track Circuit Failure
+7/3/2025 2:04,OnboardUnit,TrackCircuit,Unexpected system restart,Unknown
+7/4/2025 6:44,OnboardUnit,TrainControl,Balise ID 770 not recognized by Zone Controller,Balise Error
+7/3/2025 16:57,SignalModule,SignalRelay,Unexpected system restart,Unknown
+7/6/2025 1:23,TracksideSensor,ZoneLink,Lost communication with train ID 578,Communication Fault
+7/7/2025 22:44,OnboardUnit,TrackCircuit,Signal module 237 sent conflicting commands,Signal Conflict
+7/6/2025 7:53,OnboardUnit,TrackCircuit,Balise ID 541 not recognized by Zone Controller,Balise Error
+7/6/2025 9:39,TracksideSensor,BaliseReader,Track circuit 898 is showing occupied for too long,Track Circuit Failure
+7/5/2025 3:53,SignalModule,TrackCircuit,Track circuit 292 is showing occupied for too long,Track Circuit Failure
+7/1/2025 6:48,OnboardUnit,BaliseReader,Undocumented fault condition encountered,Unknown
+7/4/2025 10:12,OnboardUnit,SignalRelay,Signal module 974 sent conflicting commands,Signal Conflict
+7/1/2025 19:43,ZoneController,ZoneLink,Timeout while sending data to ATS,Communication Fault
+7/3/2025 22:11,ATS,TrainControl,Signal overlap detected between train 313 and train 24,Signal Conflict
+7/5/2025 0:46,OnboardUnit,BaliseReader,Timeout while sending data to ATS,Communication Fault
+7/1/2025 13:56,TracksideSensor,TrackCircuit,Track circuit 937 is showing occupied for too long,Track Circuit Failure
+7/6/2025 19:11,SignalModule,ZoneLink,Undocumented fault condition encountered,Unknown
+7/5/2025 6:48,OnboardUnit,SignalRelay,Balise ID 896 not recognized by Zone Controller,Balise Error
+7/3/2025 5:43,SignalModule,BaliseReader,Signal overlap detected between train 419 and train 49,Signal Conflict
+7/2/2025 5:14,ZoneController,TrackCircuit,Signal overlap detected between train 351 and train 48,Signal Conflict
+7/4/2025 23:19,TracksideSensor,SignalRelay,Track circuit 920 failed self-check,Track Circuit Failure
+7/6/2025 7:28,TracksideSensor,BaliseReader,No response from Zone Controller 370,Communication Fault
+7/2/2025 11:15,SignalModule,BaliseReader,Signal overlap detected between train 440 and train 9,Signal Conflict
+7/7/2025 7:49,OnboardUnit,TrackCircuit,No response from Zone Controller 682,Communication Fault
+7/5/2025 14:54,TracksideSensor,TrainControl,Signal module 257 sent conflicting commands,Signal Conflict
+7/5/2025 2:08,ATS,ZoneLink,Unexpected system restart,Unknown
+7/6/2025 9:19,ZoneController,BaliseReader,Log entry could not be classified,Unknown
+7/1/2025 14:53,TracksideSensor,ZoneLink,Timeout while sending data to ATS,Communication Fault
+7/2/2025 18:47,ATS,BaliseReader,Signal module 199 sent conflicting commands,Signal Conflict
+7/2/2025 10:20,SignalModule,ZoneLink,Undocumented fault condition encountered,Unknown
+7/5/2025 4:21,ATS,TrackCircuit,Balise ID 753 not recognized by Zone Controller,Balise Error
+7/5/2025 8:40,ATS,ZoneLink,Balise reader on train 429 failed to detect balise at position 16,Balise Error
+7/2/2025 1:57,ATS,BaliseReader,Signal overlap detected between train 814 and train 2,Signal Conflict
+7/7/2025 16:15,ZoneController,BaliseReader,Balise reader on train 546 failed to detect balise at position 28,Balise Error
+7/3/2025 12:00,ATS,ZoneLink,Signal module 863 sent conflicting commands,Signal Conflict
+7/5/2025 20:20,TracksideSensor,ZoneLink,Track circuit 478 is showing occupied for too long,Track Circuit Failure
+7/2/2025 19:45,SignalModule,SignalRelay,Balise ID 182 not recognized by Zone Controller,Balise Error
+7/1/2025 21:57,ATS,TrackCircuit,Balise ID 131 not recognized by Zone Controller,Balise Error
+7/6/2025 10:45,SignalModule,TrainControl,Unexpected system restart,Unknown
+7/5/2025 14:10,SignalModule,TrackCircuit,Log entry could not be classified,Unknown
+7/2/2025 1:59,ZoneController,TrackCircuit,Signal module 114 sent conflicting commands,Signal Conflict
+7/7/2025 6:17,OnboardUnit,BaliseReader,Log entry could not be classified,Unknown
+7/6/2025 17:05,TracksideSensor,SignalRelay,Balise ID 327 not recognized by Zone Controller,Balise Error
+7/3/2025 4:15,OnboardUnit,TrainControl,Track circuit 435 failed self-check,Track Circuit Failure
+7/4/2025 1:49,ATS,ZoneLink,Log entry could not be classified,Unknown
+7/7/2025 14:34,OnboardUnit,BaliseReader,Balise reader on train 802 failed to detect balise at position 26,Balise Error
+7/1/2025 16:06,ATS,BaliseReader,Track circuit 126 is showing occupied for too long,Track Circuit Failure
+7/7/2025 15:40,SignalModule,ZoneLink,Unexpected system restart,Unknown
+7/6/2025 19:59,ATS,TrackCircuit,Unexpected system restart,Unknown
+7/6/2025 21:09,TracksideSensor,TrackCircuit,Balise ID 651 not recognized by Zone Controller,Balise Error
+7/7/2025 14:22,TracksideSensor,TrackCircuit,Track circuit 861 failed self-check,Track Circuit Failure
+7/6/2025 4:09,ZoneController,TrackCircuit,Timeout while sending data to ATS,Communication Fault
+7/5/2025 14:48,OnboardUnit,SignalRelay,Lost communication with train ID 838,Communication Fault
+7/2/2025 9:18,SignalModule,SignalRelay,Track circuit 901 failed self-check,Track Circuit Failure
+7/4/2025 14:21,ATS,BaliseReader,Track circuit 684 is showing occupied for too long,Track Circuit Failure
+7/4/2025 21:06,ZoneController,BaliseReader,Signal module 313 sent conflicting commands,Signal Conflict
+7/7/2025 10:11,SignalModule,BaliseReader,Track circuit 333 failed self-check,Track Circuit Failure
+7/4/2025 16:10,OnboardUnit,ZoneLink,Signal module 316 sent conflicting commands,Signal Conflict
+7/4/2025 2:29,ZoneController,BaliseReader,Signal overlap detected between train 769 and train 11,Signal Conflict
+7/1/2025 13:34,SignalModule,SignalRelay,Balise reader on train 337 failed to detect balise at position 24,Balise Error
+7/7/2025 21:02,ZoneController,BaliseReader,Track circuit 993 is showing occupied for too long,Track Circuit Failure
+7/7/2025 0:29,OnboardUnit,TrainControl,Timeout while sending data to ATS,Communication Fault
+7/3/2025 12:00,ZoneController,TrainControl,Signal overlap detected between train 790 and train 9,Signal Conflict
+7/2/2025 23:06,TracksideSensor,BaliseReader,Lost communication with train ID 162,Communication Fault
+7/1/2025 11:03,ATS,TrackCircuit,Signal module 339 sent conflicting commands,Signal Conflict
+7/6/2025 7:48,SignalModule,TrainControl,Timeout while sending data to ATS,Communication Fault
+7/6/2025 4:57,ZoneController,ZoneLink,Lost communication with train ID 154,Communication Fault
+7/7/2025 1:10,SignalModule,TrainControl,Signal module 323 sent conflicting commands,Signal Conflict
+7/1/2025 13:38,TracksideSensor,ZoneLink,Undocumented fault condition encountered,Unknown
+7/7/2025 11:07,SignalModule,TrainControl,Balise ID 290 not recognized by Zone Controller,Balise Error
+7/5/2025 19:51,SignalModule,ZoneLink,Track circuit 387 failed self-check,Track Circuit Failure
+7/1/2025 14:54,ATS,TrainControl,Signal overlap detected between train 105 and train 1,Signal Conflict
+7/2/2025 12:24,SignalModule,ZoneLink,Track circuit 342 failed self-check,Track Circuit Failure
+7/6/2025 8:53,SignalModule,BaliseReader,Track circuit 564 failed self-check,Track Circuit Failure
+7/3/2025 9:26,OnboardUnit,TrainControl,Log entry could not be classified,Unknown
+7/2/2025 20:05,ZoneController,BaliseReader,Balise ID 242 not recognized by Zone Controller,Balise Error
+7/3/2025 1:44,ATS,TrackCircuit,Lost communication with train ID 912,Communication Fault
+7/7/2025 17:33,ZoneController,SignalRelay,Signal module 609 sent conflicting commands,Signal Conflict
+7/6/2025 19:58,TracksideSensor,TrainControl,Balise reader on train 258 failed to detect balise at position 28,Balise Error
+7/4/2025 19:34,ZoneController,TrainControl,Undocumented fault condition encountered,Unknown
+7/4/2025 14:19,OnboardUnit,ZoneLink,Timeout while sending data to ATS,Communication Fault
+7/2/2025 15:34,TracksideSensor,TrackCircuit,Track circuit 140 failed self-check,Track Circuit Failure
+7/4/2025 20:53,SignalModule,TrackCircuit,Signal module 134 sent conflicting commands,Signal Conflict
+7/3/2025 2:51,ZoneController,TrainControl,Track circuit 965 failed self-check,Track Circuit Failure
+7/5/2025 21:52,OnboardUnit,TrainControl,Track circuit 130 failed self-check,Track Circuit Failure
+7/5/2025 12:59,ZoneController,ZoneLink,Timeout while sending data to ATS,Communication Fault
+7/1/2025 10:16,TracksideSensor,BaliseReader,Signal overlap detected between train 761 and train 41,Signal Conflict
+7/7/2025 1:50,SignalModule,TrainControl,Log entry could not be classified,Unknown
+7/6/2025 12:42,OnboardUnit,TrainControl,Balise ID 167 not recognized by Zone Controller,Balise Error
+7/7/2025 10:34,ATS,SignalRelay,Track circuit 464 failed self-check,Track Circuit Failure
+7/5/2025 6:01,SignalModule,BaliseReader,Track circuit 683 failed self-check,Track Circuit Failure
+7/3/2025 20:11,TracksideSensor,TrackCircuit,Balise ID 851 not recognized by Zone Controller,Balise Error
+7/4/2025 13:57,TracksideSensor,BaliseReader,Balise ID 436 not recognized by Zone Controller,Balise Error
+7/4/2025 23:51,ZoneController,TrackCircuit,Signal overlap detected between train 863 and train 7,Signal Conflict
+7/1/2025 13:52,OnboardUnit,SignalRelay,Signal overlap detected between train 156 and train 38,Signal Conflict
+7/4/2025 22:40,TracksideSensor,ZoneLink,Balise ID 344 not recognized by Zone Controller,Balise Error
+7/6/2025 4:15,ATS,SignalRelay,Lost communication with train ID 660,Communication Fault
+7/6/2025 0:14,SignalModule,SignalRelay,Signal overlap detected between train 960 and train 2,Signal Conflict
+7/6/2025 20:11,ATS,TrackCircuit,Track circuit 244 is showing occupied for too long,Track Circuit Failure
+7/4/2025 4:15,ATS,TrackCircuit,Balise reader on train 266 failed to detect balise at position 5,Balise Error
+7/8/2025 0:39,TracksideSensor,TrackCircuit,Timeout while sending data to ATS,Communication Fault
+7/6/2025 1:17,ZoneController,TrainControl,Balise ID 362 not recognized by Zone Controller,Balise Error
+7/7/2025 9:44,ATS,TrackCircuit,Balise ID 408 not recognized by Zone Controller,Balise Error
+7/5/2025 7:20,TracksideSensor,TrackCircuit,Track circuit 416 is showing occupied for too long,Track Circuit Failure
+7/6/2025 2:46,OnboardUnit,SignalRelay,Timeout while sending data to ATS,Communication Fault
+7/3/2025 13:01,OnboardUnit,ZoneLink,No response from Zone Controller 788,Communication Fault
+7/7/2025 19:44,SignalModule,BaliseReader,No response from Zone Controller 154,Communication Fault
+7/7/2025 16:13,ATS,TrainControl,Log entry could not be classified,Unknown
+7/4/2025 10:09,ATS,TrainControl,Track circuit 291 failed self-check,Track Circuit Failure
+7/6/2025 1:43,ATS,TrackCircuit,Balise ID 900 not recognized by Zone Controller,Balise Error
+7/7/2025 4:08,TracksideSensor,BaliseReader,Log entry could not be classified,Unknown
+7/5/2025 15:55,TracksideSensor,TrainControl,Unexpected system restart,Unknown
+7/1/2025 18:22,TracksideSensor,TrainControl,Timeout while sending data to ATS,Communication Fault
+7/7/2025 21:05,SignalModule,TrainControl,Track circuit 650 is showing occupied for too long,Track Circuit Failure
+7/7/2025 5:10,OnboardUnit,TrainControl,Balise reader on train 692 failed to detect balise at position 12,Balise Error
+7/6/2025 6:24,ZoneController,TrackCircuit,No response from Zone Controller 211,Communication Fault
+7/2/2025 9:19,OnboardUnit,BaliseReader,No response from Zone Controller 881,Communication Fault
+7/7/2025 12:08,SignalModule,ZoneLink,Balise ID 203 not recognized by Zone Controller,Balise Error
+7/2/2025 6:35,TracksideSensor,BaliseReader,Track circuit 361 failed self-check,Track Circuit Failure
+7/1/2025 19:17,ATS,BaliseReader,Balise ID 433 not recognized by Zone Controller,Balise Error
+7/1/2025 7:58,ATS,SignalRelay,Signal overlap detected between train 482 and train 22,Signal Conflict
+7/5/2025 15:02,SignalModule,BaliseReader,Track circuit 399 is showing occupied for too long,Track Circuit Failure
+7/3/2025 6:40,ATS,ZoneLink,No response from Zone Controller 539,Communication Fault
+7/7/2025 1:17,OnboardUnit,TrainControl,Balise reader on train 221 failed to detect balise at position 22,Balise Error
+7/6/2025 3:10,ZoneController,TrackCircuit,Lost communication with train ID 210,Communication Fault
+7/4/2025 7:59,OnboardUnit,SignalRelay,No response from Zone Controller 601,Communication Fault
+7/6/2025 10:33,OnboardUnit,SignalRelay,Signal overlap detected between train 507 and train 28,Signal Conflict
+7/3/2025 15:45,ZoneController,ZoneLink,Balise reader on train 971 failed to detect balise at position 13,Balise Error
+7/4/2025 19:14,ZoneController,BaliseReader,Undocumented fault condition encountered,Unknown
+7/1/2025 9:03,ATS,TrainControl,Track circuit 298 is showing occupied for too long,Track Circuit Failure
+7/5/2025 22:59,OnboardUnit,TrackCircuit,Timeout while sending data to ATS,Communication Fault
+7/1/2025 18:12,SignalModule,TrainControl,Signal module 255 sent conflicting commands,Signal Conflict
+7/1/2025 6:54,TracksideSensor,SignalRelay,Track circuit 620 failed self-check,Track Circuit Failure
+7/1/2025 23:05,SignalModule,SignalRelay,Signal module 745 sent conflicting commands,Signal Conflict
+7/4/2025 21:20,ATS,TrainControl,No response from Zone Controller 533,Communication Fault
+7/1/2025 11:12,ZoneController,SignalRelay,Unexpected system restart,Unknown
+7/8/2025 0:46,TracksideSensor,SignalRelay,No response from Zone Controller 702,Communication Fault
+7/6/2025 5:02,ATS,BaliseReader,Track circuit 100 failed self-check,Track Circuit Failure
+7/6/2025 9:43,SignalModule,TrainControl,Balise reader on train 672 failed to detect balise at position 49,Balise Error
+7/7/2025 17:33,TracksideSensor,SignalRelay,Lost communication with train ID 389,Communication Fault
+7/7/2025 18:24,ZoneController,BaliseReader,Balise ID 214 not recognized by Zone Controller,Balise Error
+7/1/2025 9:36,ATS,SignalRelay,Balise reader on train 784 failed to detect balise at position 48,Balise Error
+7/3/2025 14:49,TracksideSensor,ZoneLink,Signal overlap detected between train 261 and train 49,Signal Conflict
+7/7/2025 18:29,ATS,TrainControl,Signal module 199 sent conflicting commands,Signal Conflict
+7/7/2025 16:10,ZoneController,ZoneLink,Balise ID 568 not recognized by Zone Controller,Balise Error
+7/2/2025 3:12,OnboardUnit,ZoneLink,Signal module 193 sent conflicting commands,Signal Conflict
+7/8/2025 3:44,ATS,TrackCircuit,Signal overlap detected between train 152 and train 29,Signal Conflict
+7/4/2025 9:28,ZoneController,SignalRelay,Undocumented fault condition encountered,Unknown
+7/3/2025 20:52,OnboardUnit,SignalRelay,Signal module 523 sent conflicting commands,Signal Conflict
+7/5/2025 11:05,ATS,TrainControl,Signal overlap detected between train 194 and train 5,Signal Conflict
+7/1/2025 15:29,OnboardUnit,SignalRelay,Balise reader on train 555 failed to detect balise at position 38,Balise Error
+7/8/2025 3:34,ATS,ZoneLink,Lost communication with train ID 386,Communication Fault
+7/3/2025 4:52,OnboardUnit,TrackCircuit,Track circuit 617 failed self-check,Track Circuit Failure
+7/3/2025 2:45,ATS,BaliseReader,Lost communication with train ID 848,Communication Fault
+7/3/2025 2:19,OnboardUnit,BaliseReader,Lost communication with train ID 317,Communication Fault
+7/7/2025 15:29,ZoneController,BaliseReader,Track circuit 140 failed self-check,Track Circuit Failure
+7/7/2025 4:22,SignalModule,BaliseReader,Track circuit 920 failed self-check,Track Circuit Failure
+7/4/2025 19:31,OnboardUnit,TrainControl,Log entry could not be classified,Unknown
+7/1/2025 10:44,TracksideSensor,ZoneLink,Signal overlap detected between train 382 and train 44,Signal Conflict
+7/5/2025 5:39,ATS,TrainControl,Signal overlap detected between train 740 and train 36,Signal Conflict
+7/6/2025 9:12,OnboardUnit,TrackCircuit,Balise reader on train 449 failed to detect balise at position 38,Balise Error
+7/1/2025 8:35,ZoneController,TrackCircuit,No response from Zone Controller 992,Communication Fault
+7/6/2025 8:36,ZoneController,SignalRelay,Balise reader on train 340 failed to detect balise at position 11,Balise Error
+7/5/2025 2:47,TracksideSensor,BaliseReader,Undocumented fault condition encountered,Unknown
+7/3/2025 17:53,ATS,TrackCircuit,Log entry could not be classified,Unknown
+7/6/2025 5:14,TracksideSensor,SignalRelay,Signal overlap detected between train 165 and train 20,Signal Conflict
+7/7/2025 0:55,TracksideSensor,SignalRelay,Undocumented fault condition encountered,Unknown
+7/7/2025 23:03,TracksideSensor,TrainControl,Track circuit 668 failed self-check,Track Circuit Failure
+7/3/2025 3:20,TracksideSensor,ZoneLink,Signal module 395 sent conflicting commands,Signal Conflict
+7/3/2025 12:16,OnboardUnit,TrainControl,Track circuit 136 failed self-check,Track Circuit Failure
+7/4/2025 7:30,ZoneController,TrainControl,Signal module 253 sent conflicting commands,Signal Conflict
+7/2/2025 20:44,ZoneController,BaliseReader,Signal module 347 sent conflicting commands,Signal Conflict
+7/7/2025 15:15,OnboardUnit,TrainControl,Unexpected system restart,Unknown
+7/1/2025 13:32,OnboardUnit,TrainControl,Signal module 957 sent conflicting commands,Signal Conflict
+7/3/2025 9:34,TracksideSensor,TrackCircuit,Timeout while sending data to ATS,Communication Fault
+7/2/2025 2:09,TracksideSensor,ZoneLink,Signal overlap detected between train 589 and train 48,Signal Conflict
+7/2/2025 20:26,SignalModule,TrainControl,Signal overlap detected between train 476 and train 45,Signal Conflict
+7/6/2025 19:47,ZoneController,SignalRelay,Undocumented fault condition encountered,Unknown
+7/7/2025 8:07,TracksideSensor,BaliseReader,Balise reader on train 611 failed to detect balise at position 30,Balise Error
+7/3/2025 6:59,TracksideSensor,TrainControl,Timeout while sending data to ATS,Communication Fault
+7/3/2025 5:39,OnboardUnit,SignalRelay,Lost communication with train ID 933,Communication Fault
+7/1/2025 17:46,ZoneController,SignalRelay,Signal module 680 sent conflicting commands,Signal Conflict
+7/5/2025 23:15,TracksideSensor,ZoneLink,Signal module 355 sent conflicting commands,Signal Conflict
+7/8/2025 0:27,ZoneController,ZoneLink,Balise reader on train 587 failed to detect balise at position 10,Balise Error
+7/7/2025 15:26,ATS,BaliseReader,Unexpected system restart,Unknown
+7/1/2025 18:27,ATS,ZoneLink,Unexpected system restart,Unknown
+7/3/2025 23:26,ZoneController,ZoneLink,Signal overlap detected between train 197 and train 22,Signal Conflict
+7/2/2025 16:57,OnboardUnit,BaliseReader,Lost communication with train ID 779,Communication Fault
+7/3/2025 13:09,TracksideSensor,SignalRelay,Signal overlap detected between train 980 and train 14,Signal Conflict
+7/5/2025 4:11,ZoneController,SignalRelay,Undocumented fault condition encountered,Unknown
+7/7/2025 23:55,ZoneController,SignalRelay,Timeout while sending data to ATS,Communication Fault
+7/4/2025 13:56,SignalModule,TrackCircuit,Balise reader on train 274 failed to detect balise at position 12,Balise Error
+7/5/2025 2:33,SignalModule,ZoneLink,Log entry could not be classified,Unknown
+7/1/2025 22:12,TracksideSensor,BaliseReader,Balise reader on train 369 failed to detect balise at position 24,Balise Error
+7/2/2025 23:04,OnboardUnit,SignalRelay,Signal overlap detected between train 742 and train 44,Signal Conflict
+7/2/2025 14:56,SignalModule,TrainControl,Log entry could not be classified,Unknown
+7/1/2025 23:11,ATS,TrainControl,Balise reader on train 733 failed to detect balise at position 35,Balise Error
+7/5/2025 20:46,TracksideSensor,TrainControl,Undocumented fault condition encountered,Unknown
+7/2/2025 15:51,SignalModule,BaliseReader,Balise ID 485 not recognized by Zone Controller,Balise Error
+7/7/2025 3:01,ATS,TrainControl,Signal module 741 sent conflicting commands,Signal Conflict
+7/3/2025 18:37,TracksideSensor,ZoneLink,Log entry could not be classified,Unknown
+7/5/2025 21:28,OnboardUnit,TrackCircuit,Track circuit 301 is showing occupied for too long,Track Circuit Failure
+7/4/2025 11:48,TracksideSensor,ZoneLink,Signal module 714 sent conflicting commands,Signal Conflict
+7/4/2025 8:59,TracksideSensor,TrackCircuit,Signal overlap detected between train 923 and train 11,Signal Conflict
+7/5/2025 13:33,SignalModule,TrainControl,Lost communication with train ID 620,Communication Fault
+7/5/2025 23:55,OnboardUnit,TrainControl,Track circuit 312 is showing occupied for too long,Track Circuit Failure
+7/4/2025 5:15,TracksideSensor,TrainControl,Signal module 588 sent conflicting commands,Signal Conflict
+7/4/2025 2:12,OnboardUnit,SignalRelay,Balise reader on train 492 failed to detect balise at position 19,Balise Error
+7/2/2025 3:43,OnboardUnit,ZoneLink,Track circuit 168 is showing occupied for too long,Track Circuit Failure
+7/8/2025 1:32,SignalModule,BaliseReader,Signal module 195 sent conflicting commands,Signal Conflict
+7/2/2025 0:57,ZoneController,SignalRelay,Timeout while sending data to ATS,Communication Fault
+7/6/2025 16:11,OnboardUnit,SignalRelay,Lost communication with train ID 303,Communication Fault
+7/7/2025 0:07,SignalModule,TrainControl,Signal overlap detected between train 587 and train 22,Signal Conflict
+7/6/2025 7:19,OnboardUnit,BaliseReader,Track circuit 456 failed self-check,Track Circuit Failure
+7/5/2025 0:54,ZoneController,TrainControl,Undocumented fault condition encountered,Unknown
+7/4/2025 4:38,ATS,ZoneLink,Signal overlap detected between train 591 and train 8,Signal Conflict
+7/7/2025 5:08,SignalModule,BaliseReader,Undocumented fault condition encountered,Unknown
+7/2/2025 21:39,SignalModule,TrackCircuit,Signal overlap detected between train 781 and train 31,Signal Conflict
+7/6/2025 10:29,SignalModule,SignalRelay,Timeout while sending data to ATS,Communication Fault
+7/7/2025 18:51,ATS,ZoneLink,Signal module 371 sent conflicting commands,Signal Conflict
+7/3/2025 12:40,SignalModule,ZoneLink,No response from Zone Controller 312,Communication Fault
+7/7/2025 19:20,ZoneController,TrackCircuit,Signal overlap detected between train 755 and train 35,Signal Conflict
+7/6/2025 12:07,ATS,SignalRelay,Timeout while sending data to ATS,Communication Fault
+7/1/2025 8:48,ZoneController,TrainControl,Signal module 218 sent conflicting commands,Signal Conflict
+7/4/2025 3:14,ATS,ZoneLink,Track circuit 692 is showing occupied for too long,Track Circuit Failure
+7/2/2025 1:30,ZoneController,TrainControl,Undocumented fault condition encountered,Unknown
+7/4/2025 8:30,SignalModule,TrainControl,Balise ID 140 not recognized by Zone Controller,Balise Error
+7/2/2025 2:09,TracksideSensor,TrainControl,Signal module 599 sent conflicting commands,Signal Conflict
+7/2/2025 2:21,ATS,TrackCircuit,Signal module 724 sent conflicting commands,Signal Conflict
+7/3/2025 18:33,TracksideSensor,SignalRelay,Track circuit 236 failed self-check,Track Circuit Failure
+7/3/2025 16:08,OnboardUnit,TrainControl,Track circuit 438 failed self-check,Track Circuit Failure
+7/3/2025 5:53,SignalModule,TrackCircuit,Signal module 776 sent conflicting commands,Signal Conflict
+7/6/2025 10:14,ATS,TrainControl,Balise ID 992 not recognized by Zone Controller,Balise Error
+7/7/2025 13:10,OnboardUnit,SignalRelay,Track circuit 640 is showing occupied for too long,Track Circuit Failure
+7/4/2025 16:05,TracksideSensor,ZoneLink,Unexpected system restart,Unknown
+7/8/2025 0:35,SignalModule,BaliseReader,Balise reader on train 973 failed to detect balise at position 36,Balise Error
+7/1/2025 14:19,SignalModule,ZoneLink,Lost communication with train ID 483,Communication Fault
+7/4/2025 18:01,ATS,TrainControl,No response from Zone Controller 938,Communication Fault
+7/7/2025 5:26,SignalModule,SignalRelay,Signal overlap detected between train 476 and train 29,Signal Conflict
+7/5/2025 8:56,ATS,TrackCircuit,Signal module 907 sent conflicting commands,Signal Conflict
+7/7/2025 8:40,TracksideSensor,TrainControl,Balise ID 953 not recognized by Zone Controller,Balise Error
+7/2/2025 12:20,TracksideSensor,TrackCircuit,Track circuit 739 is showing occupied for too long,Track Circuit Failure
