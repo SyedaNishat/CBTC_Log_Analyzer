@@ -1,19 +1,20 @@
-
 # 🚆 CBTC Log Analyzer with Fault Classification
+
+This project is an end-to-end log analysis tool designed for CBTC (Communications-Based Train Control) railway systems. It uses Natural Language Processing (NLP) to parse and classify system logs into fault types, helping engineers and testers quickly identify operational issues.
 
 This is a Streamlit-based interactive tool that allows users to upload, classify, and analyze CBTC (Communication-Based Train Control) system log files. The app uses basic NLP techniques to classify faults, stores them in a SQLite database, and provides interactive charts, search, filtering, and Power BI integration for visualization.
 
 ---
 
-## 📌 Features
+🎯 Key Features
 
-- ✅ Upload CBTC log files in CSV format
-- ✅ Automatically classify logs into fault types
-- ✅ Store logs in a SQLite database
-- ✅ View, filter, and search historical logs
-- ✅ Visualize fault type distribution
-- ✅ Export filtered logs to Excel for further analysis
-- ✅ Easily connect to Power BI for advanced dashboards
+📂 Upload raw CBTC log files (CSV)
+🧠 Rule-based NLP for fault classification (e.g., Track Circuit, Signal Conflict, Communication Fault)
+🗃️ Save & load logs using SQLite database
+🔎 Search logs and apply filters by fault type or keywords
+📊 View fault trends and export cleaned logs for external BI tools
+🧰 GitHub-ready structure with requirements.txt, .gitignore, and README
+✅ Plans to expand with ML-based fault classification
 
 ---
 
