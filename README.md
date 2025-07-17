@@ -1,4 +1,4 @@
-# 🚆 CBTC Log Analyzer with Fault Classification
+#  CBTC Log Analyzer with Fault Classification
 
 This project is an end-to-end log analysis tool designed for CBTC (Communications-Based Train Control) railway systems. It uses Natural Language Processing (NLP) to parse and classify system logs into fault types, helping engineers and testers quickly identify operational issues.
 
