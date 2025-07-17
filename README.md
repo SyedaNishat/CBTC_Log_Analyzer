@@ -6,54 +6,34 @@ This is a Streamlit-based interactive tool that allows users to upload, classify
 
 ---
 
-🎯 Key Features
+ **Key Features**
 
-📂 Upload raw CBTC log files (CSV)
+ Upload raw CBTC log files (CSV)
 
-🧠 Rule-based NLP for fault classification (e.g., Track Circuit, Signal Conflict, Communication Fault)
+ Rule-based NLP for fault classification (e.g., Track Circuit, Signal Conflict, Communication Fault)
 
-🗃️ Save & load logs using SQLite database
+ Save & load logs using SQLite database
 
-🔎 Search logs and apply filters by fault type or keywords
+ Search logs and apply filters by fault type or keywords
 
-📊 View fault trends and export cleaned logs for external BI tools
+ View fault trends and export cleaned logs for external BI tools
 
-🧰 GitHub-ready structure with requirements.txt, .gitignore, and README
+ GitHub-ready structure with requirements.txt, .gitignore, and README
 
-✅ Plans to expand with ML-based fault classification
-
----
-
-## 🏗️ Project Structure
-
-```
-CBTC_Log_Analyzer/
-│
-├── streamlit_app/
-│   ├── app.py             # Main Streamlit app
-│   ├── init_db.py         # Script to initialize SQLite DB (run once)
-│   └── cbtc_logs.db       # (Optional) SQLite database file
-│
-├── data/
-│   └── CBTC_Simulation.csv  # Sample input file 
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
+ Plans to expand with ML-based fault classification
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 1️⃣ Clone the repo
+###  Clone the repo
 
 ```bash
 git clone https://github.com/yourusername/CBTC_Log_Analyzer.git
 cd CBTC_Log_Analyzer/streamlit_app
 ```
 
-### 2️⃣ Install dependencies
+###  Install dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -66,7 +46,7 @@ pandas
 matplotlib
 ```
 
-### 3️⃣ Initialize the Database
+### Initialize the Database
 
 Run this **once** to create the `logs` table:
 
@@ -74,7 +54,7 @@ Run this **once** to create the `logs` table:
 python init_db.py
 ```
 
-### 4️⃣ Run the App
+### Run the App
 
 ```bash
 streamlit run app.py
@@ -82,7 +62,7 @@ streamlit run app.py
 
 ---
 
-## 💡 How it Works
+## How it Works
 
 - Upload a `.csv` log file with at least the column `LogMessage`.
 - The app applies basic NLP keyword matching to classify fault types.
@@ -92,15 +72,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Power BI Integration
-
-- In Power BI → Click **"Get Data" → "SQL Server"** → Choose **"SQLite Database"**
-- Browse and select `cbtc_logs.db`
-- Load the `logs` table and create interactive charts
-
----
-
-## 🧠 Fault Classification Rules
+##  Fault Classification Rules
 
 | Keyword         | Classified As              |
 |-----------------|----------------------------|
@@ -112,7 +84,7 @@ streamlit run app.py
 
 ---
 
-## 📦 Sample Input Format
+## Sample Input Format
 
 ```csv
 Timestamp,Subsystem,Component,LogMessage
@@ -121,17 +93,12 @@ Timestamp,Subsystem,Component,LogMessage
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 > ui_home.png
 classified_logs.png
 search_filter.png
 
----
-
-## 📄 License
-
-This project is for educational and demonstration purposes.
 
 ---
 
