@@ -8,19 +8,19 @@ This is a Streamlit-based interactive tool that allows users to upload, classify
 
  **Key Features**
 
- Upload raw CBTC log files (CSV)
+ 1. Upload raw CBTC log files (CSV)
 
- Rule-based NLP for fault classification (e.g., Track Circuit, Signal Conflict, Communication Fault)
+ 2. Rule-based NLP for fault classification (e.g., Track Circuit, Signal Conflict, Communication Fault)
 
- Save & load logs using SQLite database
+ 3. Save & load logs using SQLite database
 
- Search logs and apply filters by fault type or keywords
+ 4. Search logs and apply filters by fault type or keywords
 
- View fault trends and export cleaned logs for external BI tools
+ 5. View fault trends and export cleaned logs for external BI tools
 
- GitHub-ready structure with requirements.txt, .gitignore, and README
+ 6. GitHub-ready structure with requirements.txt, .gitignore, and README
 
- Plans to expand with ML-based fault classification
+ 7. Plans to expand with ML-based fault classification
 
 ---
 
