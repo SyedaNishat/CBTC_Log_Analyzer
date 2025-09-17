@@ -102,6 +102,6 @@ search_filter.png
 
 ---
 
-## 🙋‍♀️ Developed by
+## Developed by
 
 **Syeda Nishat**
