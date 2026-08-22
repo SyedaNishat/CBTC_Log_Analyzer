@@ -2,7 +2,7 @@
 
 This project is an end-to-end log analysis tool designed for CBTC (Communications-Based Train Control) railway systems. It uses Natural Language Processing (NLP) to parse and classify system logs into fault types, helping engineers and testers quickly identify operational issues.
 
-This is a Streamlit-based interactive tool that allows users to upload, classify, and analyze CBTC (Communication-Based Train Control) systems log files. The app uses basic NLP techniques to classify faults, stores them in a SQLite database, and provides interactive charts, search, filtering, and Power BI integration for visualization.
+This is a Streamlit-based interactive tool that allows users to upload, classify, and analyze CBTC (Communication-Based Train Control) systems log files. The app uses basic NLP techniques to classify faults, stores them in a SQLite database, and provides interactive charts, search, filtering, and Power BI integration for visualization. bvbjb
  
 ---
 
